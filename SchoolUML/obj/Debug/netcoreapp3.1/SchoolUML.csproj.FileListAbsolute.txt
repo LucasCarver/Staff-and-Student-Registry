@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\bin\Debug\netcoreapp3.1\SchoolUML.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\obj\Debug\netcoreapp3.1\SchoolUML.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\obj\Debug\netcoreapp3.1\SchoolUML.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\obj\Debug\netcoreapp3.1\SchoolUML.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\obj\Debug\netcoreapp3.1\SchoolUML.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\SchoolUML\SchoolUML\obj\Debug\netcoreapp3.1\SchoolUML.pdb
